@@ -18,15 +18,15 @@
   <a href="#pencil-Autor">Autor</a>
 </p>
 
-### :page_with_curl: Sobre
+## :page_with_curl: Sobre
 
 A PokéStore é um projeto proposto para os candidatos no processo seletivo da <a href="https://ri.b2w.digital/">B2W Digital</a>, com o objetivo de fazer a criação de uma loja virtual de Pokémon, tendo que escolher 2 tipos de Pokemons um para cada (água, fogo, grama, elétrico e etc) e para cada pokemon atribuir um valor.
 
-### Base de Dados
+## Base de Dados
 
 Os Pokémon devem ser buscados diretamente da api <a href="https://pokeapi.co/">Pokeapi</a>, nessa api eles nos permitem passar por parametro qual tipo de pokemon nos queremos trazer na busca. Como um fã de pokémon escolhi o tipo "Grama e Água", para quem assiste ou já assistiu todo mundo sabe que o Squirtle e o Bubassauro são os melhores pokémons né? haha brincadeiras a parte.
 
-### MVP da aplicação
+## MVP da aplicação
 
 - Catálogo de produtos
 - Carrinho lateral
@@ -37,7 +37,7 @@ Os Pokémon devem ser buscados diretamente da api <a href="https://pokeapi.co/">
 - Modal de obrigado ao finalizar compra
 - Salvar os dados da compra do usuário localmente para não perdê-las ao atualizar a página
 
-### :wrench: Construido com
+## :wrench: Construido com
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Fecth](https://pt-br.reactjs.org/docs/faq-ajax.html/)
@@ -52,13 +52,13 @@ Também foram utilizados o eslint, prettier e editor config para estilização e
 - [Prettier](https://github.com/prettier/prettier)
 - [EditorConfig](https://editorconfig.org/)
 
-### Home
+## Home
 
 <p align=center> 
   <img src="./src/assets/pageHome.png" width=900/>
 </p>
 
-### Modal ao finalizar a compra
+## Modal ao finalizar a compra
 
 - O "ganhou de volta" foi feito baseado no <a href="https://www.amedigital.com/">Ame</a>, coloquei para gerar a porcentagem de cashBack aleatóriamente).
 <br>
@@ -66,7 +66,7 @@ Também foram utilizados o eslint, prettier e editor config para estilização e
   <img src="./src/assets/pageModal.png" width=900/>
 </p>
 
-### Como utilizar
+## Como utilizar
 
 - <h4><strong>Para executar o projeto:</strong></h4>
 
