@@ -18,15 +18,15 @@
   <a href="#pencil-Autor">Autor</a>
 </p>
 
-## :page_with_curl: Sobre
+### :page_with_curl: Sobre
 
 A PokéStore é um projeto proposto para os candidatos no processo seletivo da <a href="https://ri.b2w.digital/">B2W Digital</a>, com o objetivo de fazer a criação de uma loja virtual de Pokémon, tendo que escolher 2 tipos de Pokemons um para cada (água, fogo, grama, elétrico e etc) e para cada pokemon atribuir um valor.
 
-## Base de Dados
+### Base de Dados
 
 Os Pokémon devem ser buscados diretamente da api <a href="https://pokeapi.co/">Pokeapi</a>, nessa api eles nos permitem passar por parametro qual tipo de pokemon nos queremos trazer na busca. Como um fã de pokémon escolhi o tipo "Grama e Água", para quem assiste ou já assistiu todo mundo sabe que o Squirtle e o Bubassauro são os melhores pokémons né? haha brincadeiras a parte.
 
-## MVP da aplicação
+### MVP da aplicação
 
 - Catálogo de produtos
 - Carrinho lateral
@@ -37,7 +37,7 @@ Os Pokémon devem ser buscados diretamente da api <a href="https://pokeapi.co/">
 - Modal de obrigado ao finalizar compra
 - Salvar os dados da compra do usuário localmente para não perdê-las ao atualizar a página
 
-## :wrench: Construido com
+### :wrench: Construido com
 
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Fecth](https://pt-br.reactjs.org/docs/faq-ajax.html/)
@@ -65,6 +65,29 @@ Também foram utilizados o eslint, prettier e editor config para estilização e
 <p align=center>
   <img src="./src/assets/pageModal.png" width=900/>
 </p>
+
+### Como utilizar
+
+- <h4><strong>Para executar o projeto:</strong></h4>
+
+1. Abra o terminal e digite:</br>
+
+```
+git clone <url-repositório>
+```
+
+2. Entre na pasta do projeto via terminal e digite:
+
+```
+npm install  ou  yarn install
+
+```
+
+3. Por último, execute a linha abaixo no terminal: 
+
+```
+yarn start 
+```
 
 ## :pencil: Autor
 
